@@ -1,2 +1,2 @@
-# inline-styling-react
+# react-expressions
 Created with CodeSandbox
